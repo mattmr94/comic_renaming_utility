@@ -16,17 +16,17 @@ Once you'd found the run, go to the Cover and Main Story Overview page. In this 
 
 From there, simply run the script. It will ask you some questions, answer those, and then it will begin renaming your files. The only requirement for the original file name is that they have a matching issue number to the new name, that way it will rename the correct file. Based on our Nova example, your output will be:
 
-Nova.v4.012.Inheritance.(2008).cbz
-Nova.v4.013.On.the.Last.Day.(2008).cbz
-Nova.v4.014.In.the.Final.Hour.(2008).cbz
+*Nova.v4.012.Inheritance.(2008).cbz*
+*Nova.v4.013.On.the.Last.Day.(2008).cbz*
+*Nova.v4.014.In.the.Final.Hour.(2008).cbz*
 
 And so on. If there is not a title for the individual issue, then it would appear as:
 
-Nova.v4.012.(2008)
+*Nova.v4.012.(2008)*
 
 And for runs that don't have multiple volumes, using Webspinners: Tales of Spider-Man as an example:
 
-Webspinners.Tales.of.Spider-Man.001.As.Dreams.Are.Made.On.Part.One.Crash.and.Burn.(1999)
+*Webspinners.Tales.of.Spider-Man.001.As.Dreams.Are.Made.On.Part.One.Crash.and.Burn.(1999)*
 
 ## Conclusion
 
